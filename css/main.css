@@ -72,6 +72,12 @@ nav ul {
   list-style-type: none;
   padding: 0 1rem;
   display: flex;
+  color: #fff;
+}
+
+nav li a:hover {
+  background-color: #fff;
+  text-decoration: underline;
 }
 
 nav a {
