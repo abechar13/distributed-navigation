@@ -16,8 +16,8 @@ body {
   margin: 0;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-areas:
-  "banner banner banner"
-  "col1 col2 col3";
+    "banner banner banner"
+    "col1 col2 col3";
   gap: .75em;
 }
 
@@ -39,9 +39,9 @@ body {
 }
 
 h1 {
-  font-weight: normal;
-  font-style: italic;
-  font-size: 1.8rem;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 1.125rem;
   margin: 0;
 }
 
@@ -82,6 +82,7 @@ nav a {
 
 p {
   margin: 0 0 1.5rem;
+  font-size: 1.125rem;
 }
 
 section {
