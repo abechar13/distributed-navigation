@@ -45,15 +45,19 @@ h1 {
 }
 
 header {
-  padding: 1.5rem 1rem;
+  padding: .75em 1em .6em;
+  background-color: #e2e2e2;
 }
 
 header h1 {
-
+font-size: 1.125rem
+line-height: 1.5;
+margin: .5rem;
+padding: 1rem;
 }
 
 header img {
-
+image-width: 2rem;
 }
 
 header p {
